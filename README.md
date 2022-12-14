@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @iskoclordu
 - 👀 I’m interested in code learning
 - 🌱 I’m currently learning html
-- 💞️ I’m looking to collaborate on html,CSS,Java
+- 💞️ I’m looking to collaborate on html,CSS,JavaScript
 - 📫 How to reach me abdulkadirlivaoglu@gmail.com
 
 <!---
